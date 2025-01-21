@@ -18,3 +18,5 @@ lolita
 carotte
 mot
 saya
+robuste
+marionnette
