@@ -107,6 +107,7 @@ def main():
 
             case "4":
                 add_word()
+                print("Mot ajouté avec succès.")
                 main()
 
             case "5":
