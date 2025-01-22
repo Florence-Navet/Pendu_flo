@@ -1,12 +1,12 @@
 {
-    "lola": {
-        "points": 9,
-        "victoires": 2,
-        "defaites": 1,
-        "defaites_consecutives": 1
-    },
     "adeline": {
-        "points": 5,
+        "points": 1,
+        "victoires": 1,
+        "defaites": 0,
+        "defaites_consecutives": 0
+    },
+    "flo": {
+        "points": 1,
         "victoires": 1,
         "defaites": 0,
         "defaites_consecutives": 0
