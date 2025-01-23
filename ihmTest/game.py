@@ -65,7 +65,7 @@ class Game:
 
 # Initialisation de Pygame
 pygame.init()
-screen = pygame.display.set_mode((1080, 720))
+screen = pygame.display.set_mode((854, 480))
 game = Game(screen)
 game.run()
 
